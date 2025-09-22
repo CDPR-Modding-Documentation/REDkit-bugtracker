@@ -4,7 +4,7 @@
 
 
 
-**This method was tested on Linux Mint v22.1 'Xia' Cinnamon Edition. This method is not guaranteed to work with other Linux distributions.**\
+**This method was tested on Linux Mint v22.1 'Xia' Cinnamon Edition as well as CachyOS (August 2025 Release). This method is not guaranteed to work with other Linux distributions.**\
 \
 The Witcher 3 REDkit can run on Linux via Proton but can run into two common issues. Below are possible solutions
 
